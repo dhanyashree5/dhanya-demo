@@ -1,3 +1,4 @@
 # dhanya-demo
-this is my first repository\n
+this is my first repository
+\n
 author- dhanyashree
